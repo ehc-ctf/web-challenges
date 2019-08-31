@@ -1,7 +1,8 @@
 # Web Challenges
 
 1. Baby Warmup
-- source: FUCTF Session 1
-- author: unknown
-- writeup: luuductoan
+2. Bet bung
+3. FUCTF1-Old School
+4. FUCTF1-Dr Strange
 
+```Happy hacking!```
