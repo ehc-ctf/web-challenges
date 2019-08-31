@@ -16,6 +16,8 @@ services:
             - ./code:/code
         networks:
             - code-network
+        user: www-data
+
 
 networks:
     code-network:
